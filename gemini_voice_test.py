@@ -29,7 +29,7 @@ SLEEP_TONE = (660, 440)
 END_TURN = object()
 WAKE_SEARCH = "leela_wake"
 WAKE_WORDS = (
-    # "LEELA",
+    "LEELA",
     "HII LEELA",
     "HI LEELA",
     "HEY LEELA",
